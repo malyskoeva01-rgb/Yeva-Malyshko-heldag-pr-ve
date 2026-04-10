@@ -13,7 +13,7 @@ Kjører på Node.js med Express.js. Serveren håndterer API-forespørsler, utfø
 En relasjonell SQLite-database (family.db).  
 Valget er gjort for å ha en selvstendig, filbasert database som er enkel å flytte og krever minimal konfigurasjon.
 
-
+---
 
 # 2. Databasedesign og normalisering
 
@@ -45,7 +45,7 @@ Sentral koblingstabell som administrerer oppgaver.
 - oppgave_id (FK): Referanse til oppgave
 - status: Status på oppgaven (pending eller done)
 
-
+---
 
 ## 2.2 Relasjoner og normaliseringsvalg
 
@@ -60,7 +60,7 @@ Dette sikrer at kategori-data kun lagres ett sted, og kan endres uten å påvirk
 ### Referensiell integritet
 Fremmednøkler (FK) sikrer at en tildeling ikke kan referere til ikke-eksisterende brukere eller oppgaver.
 
-
+---
 
 # 3. API-endepunkter (Routes)
 
@@ -75,7 +75,7 @@ Backend fungerer som et RESTful API med følgende endepunkter:
 | DELETE | /api/tasks/:id | Sletter en tildeling |
 | GET | /api/ranking | Beregner poengsum per bruker |
 
-
+---
 
 # 4. Brukeropplevelse og universell utforming (UU)
 
@@ -89,6 +89,7 @@ Bruk av elementer som <main>, <section>, <ul> og <button> gir god struktur og st
 Brukeren får umiddelbar visuell respons ved fullføring av oppgaver (f.eks. gjennomstreking og nedtoning).  
 Poengoversikten oppdateres automatisk.
 
+---
 
 # 5. Sikkerhetstiltak
 
@@ -98,7 +99,7 @@ Alle databaseforespørsler bruker parametriserte spørringer (?) for å hindre S
 ## Feilhåndtering
 Serveren bruker try-catch for å håndtere feil og returnerer korrekte HTTP-statuskoder (f.eks. 500 ved serverfeil).
 
-
+---
 
 Dato: 10. april 2026  
-Utviklet av Yeva Malyshko
+Utviklet av: Yeva Malyshko
