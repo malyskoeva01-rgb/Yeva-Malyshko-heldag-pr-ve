@@ -49,7 +49,7 @@ Sentral koblingstabell som administrerer oppgaver.
 
 ## 2.2 Relasjoner og normaliseringsvalg
 
-### Mange-til-mange (M:N)
+### Mange-til-mange 
 En bruker kan utføre mange oppgaver, og en oppgave kan tildeles mange brukere.  
 Dette løses via tabellen tildelinger, som fungerer som koblingstabell.
 
