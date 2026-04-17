@@ -34,7 +34,7 @@ Data som lagres i family.db brukes utelukkende til:
 - organisering av husarbeid  
 - intern rangering  
 
-❌ Ingen data blir:
+ Ingen data blir:
 - solgt  
 - delt med tredjeparter  
 - brukt til sporing eller profilering  
@@ -60,7 +60,7 @@ Dette er etisk designet for:
 - positiv forsterkning  
 - samarbeid i familien  
 
-⚠️ Systemet skal brukes som et samarbeidsverktøy, ikke som press eller kontroll.
+ Systemet skal brukes som et samarbeidsverktøy, ikke som press eller kontroll.
 
 ---
 
