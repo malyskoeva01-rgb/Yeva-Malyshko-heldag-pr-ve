@@ -62,4 +62,4 @@ GDPR: Applikasjonen praktiserer dataminimering og lagrer kun nødvendig informas
 
 Utviklet av Yeva Malyshko 
 
-Eksamensprosjekt: Informasjonsteknologi 2026
+
