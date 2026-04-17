@@ -1,4 +1,4 @@
-# 📖 Brukerveiledning: Familieoppgave-manager
+#  Brukerveiledning: Familieoppgave-manager
 
 Velkommen til din nye hjelper i hverdagen! Denne appen er laget for å gjøre husarbeid mer morsomt og mye mer oversiktlig for hele familien. Her er en enkel guide til hvordan du bruker systemet.
 
@@ -60,7 +60,7 @@ Hvis du sletter en oppgave som allerede er fullført, vil poengene forsvinne fra
 
 ---
 
-# 💡 Tips for en ryddigere hverdag
+#  Tips for en ryddigere hverdag
 
 - Sjekk listen hver morgen for å se dagens oppgaver  
 - Små oppgaver (som å vanne blomster) gir også poeng  
