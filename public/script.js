@@ -1,6 +1,6 @@
 const listeDiv = document.getElementById("liste");
 
-// Завантаження даних при старті
+
 async function start() {
     const res = await fetch("/api/meta");
     const data = await res.json();
@@ -20,7 +20,7 @@ async function start() {
     visOppgaver();
 }
 
-// Показ списку
+
 async function visOppgaver() {
     const res = await fetch("/api/tasks");
     const oppgaver = await res.json();
