@@ -51,7 +51,7 @@ package.json: Definerer prosjektets avhengigheter og skript.
 Bruk av applikasjonen
 Velg person og oppgave: Bruk nedtrekksmenyene for å tildele et gjøremål.
 
-Fullfør oppgave: Trykk på avhukingsboksen når oppgaven er gjort. Dette vil oppdatere poengsummen i rangeringen til høyre.
+Fullfør oppgave: Trykk på avhukingsboksen når oppgaven er gjort. 
 
 Slett: Bruk søppelbøtte-ikonet for å fjerne tildelinger permanent fra databasen.
 
